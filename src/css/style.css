@@ -79,6 +79,7 @@ p {
 
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 .card.selected {
@@ -111,9 +112,11 @@ p {
 
 .card .description .title {
     background-color: #333;
-    font-size: 20px;
+    font-size: 22px;
     color: #fff;
-    padding: 12px;
+    padding: 5px;
+
+    letter-spacing: 3px;
 }
 
 .card .description .text {
