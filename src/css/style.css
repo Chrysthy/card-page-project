@@ -1,31 +1,52 @@
 body {
-    background-image: url('../img/wallpaper-preview.jpg');
+    background-image: url('../img/wallpaper-hands.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 100vh;
 }
 
 header {
     text-align: center;
     padding: 60px 0;
 
-    font-size: 35px;
-    color: #f1ecff;
+    font-size: 28px;
     letter-spacing: 10px;
-    
+
 }
 
 h1,
 h2,
 h3 {
     font-family: 'RE', sans-serif;
+    color: #f1ecff;
 }
 
 p {
     font-family: 'EB-Garamond', sans-serif;
     font-size: 20px;
+    color: #f1ecff;
 }
 
 .slider-character {
     display: flex;
-   
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+
+}
+
+.character-list {
+    width: 330px;
+    height: 520px;
+
+}
+
+.btn-arrow {
+    background-color: #fff;
+    width: 70px;
+    height: 70px;
+
+    border-radius: 50px;
+    border: 0;
+    cursor: pointer;
 }
