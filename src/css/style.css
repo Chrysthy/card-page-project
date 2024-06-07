@@ -1,3 +1,19 @@
+body {
+    background-image: url('../img/wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    padding: 60px 0;
+
+    font-size: 35px;
+    color: #f1ecff;
+    letter-spacing: 10px;
+    
+}
+
 h1,
 h2,
 h3 {
@@ -7,4 +23,9 @@ h3 {
 p {
     font-family: 'EB-Garamond', sans-serif;
     font-size: 20px;
+}
+
+.slider-character {
+    display: flex;
+   
 }
