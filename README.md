@@ -10,4 +10,4 @@
 
 <br>
 
-<video src="src/video/re-cv.mp4" alt="video do projeto"></video>
+<img src="src/video/recv-project.gif" alt="video do projeto">
