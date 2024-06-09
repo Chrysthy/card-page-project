@@ -3,9 +3,11 @@
 <br>
 
 ## Ferramentas Utilizadas
+
 - HTML5
 - CSS 3
 - JavaScript
 
-<img src="src/video/sao-project.gif" alt="video do projeto">
+<br>
 
+<img src="src/video/re-cv.mp4" alt="video do projeto">
