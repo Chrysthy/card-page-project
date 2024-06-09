@@ -15,21 +15,45 @@ passo 3 - fazer aparecer o cartão anterior da lista
 passo 4 - buscar o cartão que esta selecionado e esconder*/
 
 const btnNext = document.getElementById('btn-next');
+const btnBack = document.getElementById('btn-back');
 let currentCard = 0;
 
 const cards = document.querySelectorAll('.card');
 
 btnNext.addEventListener('click', function () {
 
-    if (currentCard === cards.length - 1) return;
+    const isLastCard = currentCard === cards.length - 1;
+    if (isLastCard) return;
 
 
-    const selectedCard = document.querySelector('.selected');
-    selectedCard.classList.remove('selected')
+    hideSelectedCards();
 
     currentCard++;
 
-    cards[currentCard].classList.add('selected');
+    showcard();
 
 
 })
+
+
+btnBack.addEventListener('click', function () {
+
+    const isFirstCard = currentCard === 0;
+    if (isFirstCard) return
+
+    hideSelectedCards();
+
+    currentCard--;
+
+    showcard();
+
+})
+
+function showcard() {
+    cards[currentCard].classList.add('selected');
+}
+
+function hideSelectedCards() {
+    const selectedCard = document.querySelector('.selected');
+    selectedCard.classList.remove('selected');
+}
