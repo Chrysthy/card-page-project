@@ -33,7 +33,14 @@
 }
 
 @media(min-width: 1024px) {
-    body {
-        width: 100%;
+
+    .header {
+        padding: 60px 0;
     }
+
+    .character-list {
+        width: 330px;
+        height: 540px;
+    }
+
 }
