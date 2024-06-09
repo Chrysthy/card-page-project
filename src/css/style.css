@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
+    overflow: hidden
 }
 
 header {
@@ -129,5 +130,5 @@ p {
 
 .card.background-1 {
     background: url('../img/mansao-ashford.gif') no-repeat;
- 
+
 }
