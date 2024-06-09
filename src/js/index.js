@@ -17,12 +17,15 @@ passo 4 - buscar o cartão que esta selecionado e esconder*/
 const btnNext = document.getElementById('btn-next');
 let currentCard = 0;
 
+const cards = document.querySelectorAll('.card');
+
 btnNext.addEventListener('click', function () {
+
+    if (currentCard === cards.length - 1) return;
+
 
     const selectedCard = document.querySelector('.selected');
     selectedCard.classList.remove('selected')
-
-    const cards = document.querySelectorAll('.card');
 
     currentCard++;
 
