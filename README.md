@@ -2,7 +2,7 @@
 
 <br>
 
-## Ferramentas Utilizadas
+## Ferramentas Utilizadas 🛠️
 
 - HTML5
 - CSS 3
@@ -11,3 +11,8 @@
 <br>
 
 <img src="src/video/recv-project.gif" alt="video do projeto">
+
+<br>
+
+<h2> Suggestions </h2>
+<p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
