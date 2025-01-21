@@ -1,4 +1,6 @@
-# Card Page Project - Resident Evil: Code Veronica 🃏
+<h1 align="center"> Card Page Project - Resident Evil: Code Veronica 🃏 </h1> 
+
+<p align="center">Project Based on the Capcom Game.</p>
 
 <br>
 
