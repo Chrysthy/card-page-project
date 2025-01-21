@@ -3,6 +3,7 @@
 <p align="center">Project Based on the Capcom Game.</p>
 
 <br>
+
 <p align="center">  
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,6 +18,9 @@
 </p>
 
 
+<img src="src/video/recv-project.gif" alt="video do projeto">
+
+
 ## 🛠 Technologies
 
 - HTML5
@@ -25,7 +29,9 @@
 
 <br>
 
-<img src="src/video/recv-project.gif" alt="video do projeto">
+
+
+## ✨ Features
 
 <br>
 
