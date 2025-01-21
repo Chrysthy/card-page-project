@@ -5,9 +5,9 @@
 <br>
 
 <p align="center">  
+  <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support">Support</a>  
@@ -17,9 +17,13 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=c920c9&labelColor=000000">
 </p>
 
+<br>
+
+## 📸 Screenshots
 
 <img src="src/video/recv-project.gif" alt="video do projeto">
 
+<br>
 
 ## 🛠 Technologies
 
@@ -29,11 +33,17 @@
 
 <br>
 
+## 💻 Project
 
-
-## ✨ Features
+- The project was created to practice HTML, CSS and JavaScript.
 
 <br>
+
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+  <br>
 
 <h2> Suggestions </h2>
 <p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
